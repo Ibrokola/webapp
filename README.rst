@@ -1,3 +1,2 @@
-#d SAIT OOSD 
 
 SAIT OOSD Web App Class
